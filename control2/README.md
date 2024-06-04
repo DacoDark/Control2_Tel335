@@ -1,6 +1,6 @@
 # Control 2 TEL335 - Desarrollo de Aplicaciones Web y Mobiles
 
-Repositorio del Control 2 del Ramo Tel335, se requiere: (completar más tarde)
+Repositorio del Control 2 del Ramo Tel335
 
 # En control2 se escuentra la parte frontend
 ## Se debe estar dentro de la carpeta control2 para instalar las dependencias
