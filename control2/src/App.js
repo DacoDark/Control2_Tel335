@@ -33,7 +33,7 @@ function App() {
       {loading && <p>loading...</p>}
       {error && <p>{error}</p>}
       
-      <button className="buttonx" onClick={fecthGET}> Hacer GET </button>
+      <button className="buttonx" onClick={fecthGET}> Obtener chucknorris facto</button>
       <input
         className="inputclass"
         type="text"
@@ -69,7 +69,7 @@ function App() {
           <h2>Favoritos:</h2>
           {favorites.map((favorite, index) => (
             <div key={index} style={{ marginBottom: "20px" }}>
-              <h2>Fact {index + 1}:</h2>
+              <h2>Hecho increible {index + 1}:</h2>
               <p>
                 <strong>Categorias encontradas:</strong> {favorite.categories.join(", ")}
               </p>
