@@ -87,8 +87,8 @@
   cursor: pointer;
   margin-left: 16px;
   border: 0;
-  border-radius: 999px;
-  padding: 6px 16px;
+  border-radius: 5px;
+  padding: 14px 28px;
   font-weight: bold;
   border: 1px solid #bd0404;
   transition: .4s ease background-color;
